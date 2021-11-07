@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# App to learn the basics of Ethereum, Solidity, Hardhat 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is a simple app that uses Hardhat to develop an Ethereum app. There is a React front end that allows people to send "waves" using the ethereum block chain. 
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This app was inspired by the awesome folks over at buildspace.com. 
